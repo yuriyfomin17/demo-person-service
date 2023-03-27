@@ -1,0 +1,6 @@
+POST localhost:8880/person
+Content-Type: application/json
+
+{
+  "id": 1
+}
